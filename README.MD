@@ -23,16 +23,12 @@ After the app development, the app will be launched and managed by the team. And
 
 ###Project Timeline (Goals): 
 - May to early June
-⋅⋅1. Hands-on to [MEAN](http://mean.io/#!/) Stack.
-⋅⋅2. Practice with developing the *Flapper News* page.
+⋅⋅⋅1. Hands-on to [MEAN](http://mean.io/#!/) Stack.
+	2. Practice with developing the *Flapper News* page.
 - June to July
 ⋅⋅1. App development.
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
+
 
 
 ###Misc:
