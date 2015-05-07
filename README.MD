@@ -6,8 +6,12 @@ Web App Development with MEAN Stack
 ###Name:
 Xiaoyan Zhang 
 
+
+
 ###Project Name:
 *Beve* Development
+
+
 
 ###Project Description:
 This will be a collab project with a team of Columbia University MBAs and fellow programmers during Summer 2015.
@@ -18,12 +22,14 @@ The project will be about developing a web app called *Beve*.
 After the app development, the app will be launched and managed by the team. And this app will be profit-based.
 
 ###Project Timeline (Goals): 
-- May to early June:
+- May to early June
 ⋅⋅1. Hands-on to [MEAN](http://mean.io/#!/) Stack.
 ⋅⋅2. Practice with developing the *Flapper News* page.
 
-- June to July:
+- June to July
 ⋅⋅1. App development.
+
+
 
 ###Misc:
 This web app development will be based on [MEAN](http://mean.io/#!/) Stack, HTML, and JavaScript.
