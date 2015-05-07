@@ -19,11 +19,11 @@ After the app development, the app will be launched and managed by the team. And
 
 ###Project Timeline (Goals): 
 *May to early June:
-⋅⋅1. Hands-on to [MEAN](http://mean.io/#!/) Stack.
-⋅⋅2. Practice with developing the *Flapper News* page.
+..1. Hands-on to [MEAN](http://mean.io/#!/) Stack.
+..2. Practice with developing the *Flapper News* page.
 
 *June to July:
-⋅⋅1. App development.
+..1. App development.
 
 ###Misc:
 This web app development will be based on [MEAN](http://mean.io/#!/) Stack, HTML, and JavaScript.
