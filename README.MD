@@ -18,11 +18,11 @@ The project will be about developing a web app called *Beve*.
 After the app development, the app will be launched and managed by the team. And this app will be profit-based.
 
 ###Project Timeline (Goals): 
--May to early June:
+- May to early June:
 ⋅⋅1. Hands-on to [MEAN](http://mean.io/#!/) Stack.
 ⋅⋅2. Practice with developing the *Flapper News* page.
 
--June to July:
+- June to July:
 ⋅⋅1. App development.
 
 ###Misc:
@@ -38,5 +38,6 @@ This web app development will be based on [MEAN](http://mean.io/#!/) Stack, HTML
 -**Node.js**: a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
 
 ####"Flapper News Tutorial"
-**Link: ** [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
+**Link:** [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
+
 **Description:** The goal of this tutorial is to guide you through the creation of a Reddit/Hacker News clone using the MEAN stack. By completing this tutorial, you will gain a basic understanding of the MEAN stack including building a REST interface with Express.js on top of Node.js and using that interface to perform CRUD operations on a database via an AngularJS frontend.
