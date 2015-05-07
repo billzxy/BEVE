@@ -5,7 +5,7 @@ Web App Development with MEAN Stack
 
 ###Name:
 Xiaoyan Zhang 
--------------
+
 
 
 ###Project Name:
