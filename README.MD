@@ -17,7 +17,7 @@ Xiaoyan Zhang
 This will be a collab project with a team of Columbia University MBAs and fellow programmers during Summer 2015.
 
 The project will be about developing a web app called *Beve*.
-*Beve* will be an app about (Insert App description).
+*Beve* is a platform and like a *Software As A Service* which resembles to *UBER*. It acts as a medium of **nail salon** service: registered users request nail service while companies(or individual stylists) answers to requests. Stylists will then reach designated addresses (by users) for nail salon service. 
 
 After the app development, the app will be launched and managed by the team. And this app will be profit-based.
 
